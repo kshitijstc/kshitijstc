@@ -1,5 +1,5 @@
 # Hi 👋, I’m Kshitij M Gajbhiye
-- 👀 I’m interested in Fullstack Web Developmen, Robotics 
+- 👀 I’m interested in Fullstack Web Development and Robotics. 
 - 🌱 I’m currently learning MERN stack that will be used to make lively websites.
 - 📫 How to reach me g.kshitij@iitg.ac.in
 
