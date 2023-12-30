@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN stack that will be used to make lively websites.
 - 📫 How to reach me g.kshitij@iitg.ac.in
 # Connect with me
-- [LinkedIN](https://www.linkedin.com/in/kshitij-m-gajbhiye/)
+- [https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png](https://www.linkedin.com/in/kshitij-m-gajbhiye/)
 
 <!---
 kshitijstc/kshitijstc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
